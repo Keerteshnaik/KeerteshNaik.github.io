@@ -435,7 +435,7 @@ body {
 
 #about {
     border: 2px solid black;
-    background-image: url("F:/HTML/My portfolio/imgg.jpg");
+    background-image: url("imgg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
