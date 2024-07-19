@@ -11,6 +11,7 @@
 
 
 body {
+    baackground-color:(0,0,0,0.5);
     background-image: url("3.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
